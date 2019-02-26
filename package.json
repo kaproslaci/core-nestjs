@@ -115,7 +115,7 @@
     "dotenv": "6.2.0",
     "fast-glob": "2.2.6",
     "fastify-formbody": "2.1.0",
-    "highlight.js": "9.13.1",
+    "highlight.js": "9.15.6",
     "jsonwebtoken": "8.5.0",
     "node-django-hashers": "1.1.6",
     "passport": "0.4.0",
