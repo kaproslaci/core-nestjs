@@ -142,7 +142,7 @@
     "@angular/compiler-cli": "7.2.10",
     "@angular/core": "7.2.10",
     "@nestjs/schematics": "5.11.2",
-    "@nestjs/testing": "5.7.4",
+    "@nestjs/testing": "6.1.0",
     "@nrwl/builders": "7.7.2",
     "@nrwl/schematics": "7.7.2",
     "@rucken/cli": "3.3.3",
